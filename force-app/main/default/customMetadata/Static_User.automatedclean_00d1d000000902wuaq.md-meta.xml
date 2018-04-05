@@ -3,7 +3,7 @@
     <label>automatedclean@00d1d000000902wuaq</label>
     <protected>false</protected>
     <values>
-        <field>Is_Data_Laoder__c</field>
+        <field>Is_Data_Loader__c</field>
         <value xsi:type="xsd:boolean">false</value>
     </values>
     <values>

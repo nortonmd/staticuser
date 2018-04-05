@@ -20,7 +20,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Edit</behavior>
-                <field>Is_Data_Laoder__c</field>
+                <field>Is_Data_Loader__c</field>
             </layoutItems>
         </layoutColumns>
         <layoutColumns>

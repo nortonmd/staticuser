@@ -75,15 +75,15 @@
     [
         "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/classes/StaticUser.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/classes/StaticUser.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 963,
             "modifiedTime": 1522929849206,
             "changeTime": 1522929849206,
-            "isWorkspace": false,
-            "contentHash": "cce33f65274cc5d73575efe26207340a32d4416d"
+            "contentHash": "cce33f65274cc5d73575efe26207340a32d4416d",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -104,15 +104,15 @@
     [
         "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/classes/StaticUserTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/classes/StaticUserTest.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 1027,
             "modifiedTime": 1522929856347,
             "changeTime": 1522929856347,
-            "isWorkspace": false,
-            "contentHash": "dd596dd8fd2205c46f833e4b6ed4c871348a62e1"
+            "contentHash": "dd596dd8fd2205c46f833e4b6ed4c871348a62e1",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -133,16 +133,15 @@
     [
         "/Users/nortonmd/workspace/dx/staticuser",
         {
+            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/staticuser",
             "isDirectory": true,
-            "size": 288,
-            "modifiedTime": 1522926499981,
-            "changeTime": 1522926499981,
-            "contentHash": "482aba1731d0a586e52ba05892f68b26d69ba4fe",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 320,
+            "modifiedTime": 1522929904437,
+            "changeTime": 1522929904437,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "62533bf04610bd2b3dd430aef44fc35fe8f23ec0"
         }
     ],
     [
@@ -174,14 +173,14 @@
     [
         "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/layouts/Static_User__mdt-Static User Layout.layout-meta.xml",
         {
+            "state": "u",
             "sourcePath": "/Users/nortonmd/workspace/dx/staticuser/force-app/main/default/layouts/Static_User__mdt-Static User Layout.layout-meta.xml",
             "isDirectory": false,
-            "size": 2484,
-            "modifiedTime": 1522929024164,
-            "changeTime": 1522929024164,
-            "contentHash": "5a5a501ed2cb290b3bf9aad20996a373061c9871",
             "isMetadataFile": true,
-            "state": "u"
+            "size": 2484,
+            "modifiedTime": 1522930870814,
+            "changeTime": 1522930870814,
+            "contentHash": "6e923ea5a27922b096ead9b327badbedaf113ec4"
         }
     ],
     [

@@ -3,7 +3,7 @@
     <label>integration@00d1d000000902wuaq.com</label>
     <protected>false</protected>
     <values>
-        <field>Is_Data_Laoder__c</field>
+        <field>Is_Data_Loader__c</field>
         <value xsi:type="xsd:boolean">true</value>
     </values>
     <values>
