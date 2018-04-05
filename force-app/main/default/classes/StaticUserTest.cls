@@ -30,6 +30,5 @@ private class StaticUserTest {
 
         // Assert
         System.assertEquals( expectedSize, dataLoaderUsers.size(), 'Should be 2 dataloader users queried');
-
     }
 }
