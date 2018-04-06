@@ -32,16 +32,15 @@
     [
         "/Users/mnorton/workspace/dx/staticuser/force-app/main/default",
         {
+            "state": "u",
             "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default",
             "isDirectory": true,
-            "size": 204,
-            "modifiedTime": 1522951814000,
-            "changeTime": 1522951814000,
-            "contentHash": "397e74b48b30accf85baaa89fe5d4e4ef41e005d",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 170,
+            "modifiedTime": 1522958182000,
+            "changeTime": 1522958182000,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "e2d89b987499dcbf5ac3fad3c6b81c9eff9aa302"
         }
     ],
     [
@@ -62,15 +61,15 @@
     [
         "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/classes/StaticUser.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/classes/StaticUser.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 585,
             "modifiedTime": 1522957513000,
             "changeTime": 1522957513000,
-            "isWorkspace": false,
-            "contentHash": "1e181734af61cb18c5a2e69630ad762de1a69501"
+            "contentHash": "1e181734af61cb18c5a2e69630ad762de1a69501",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -91,15 +90,15 @@
     [
         "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/classes/StaticUserTest.cls",
         {
-            "state": "u",
             "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/classes/StaticUserTest.cls",
             "isDirectory": false,
+            "size": 1255,
+            "modifiedTime": 1522957995000,
+            "changeTime": 1522957995000,
+            "contentHash": "f4e58a8483f5a52c653e4cd5e61a9dbe42d84e4e",
             "isMetadataFile": false,
-            "size": 701,
-            "modifiedTime": 1522957685000,
-            "changeTime": 1522957685000,
-            "isWorkspace": false,
-            "contentHash": "7e910e9ca765df386ee43493cd5d8eed0c739dc6"
+            "state": "u",
+            "isWorkspace": false
         }
     ],
     [
@@ -111,64 +110,6 @@
             "modifiedTime": 1522951814000,
             "changeTime": 1522951814000,
             "contentHash": "ba40674ba94f154766998476311c02ea43571b84",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata",
-            "isDirectory": true,
-            "size": 238,
-            "modifiedTime": 1522957214000,
-            "changeTime": 1522957214000,
-            "contentHash": "a34761d58a77bb18f8d859ab1c790a985ab178b4",
-            "isMetadataFile": false,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.automatedclean_00d1d000000902wuaq.md-meta.xml",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.automatedclean_00d1d000000902wuaq.md-meta.xml",
-            "isDirectory": false,
-            "size": 552,
-            "modifiedTime": 1522951814000,
-            "changeTime": 1522951814000,
-            "contentHash": "9c5052a98f3e584f884db8635b8d7a23e0fe84a4",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.autoproc_00d1d000000902wuaq.md-meta.xml",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.autoproc_00d1d000000902wuaq.md-meta.xml",
-            "isDirectory": false,
-            "size": 545,
-            "modifiedTime": 1522951814000,
-            "changeTime": 1522951814000,
-            "contentHash": "669b6262e70328e55930343f9a5d1731cd4b9884",
-            "isMetadataFile": true,
-            "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.integration_00d1d000000902wuaq_com.md-meta.xml",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.integration_00d1d000000902wuaq_com.md-meta.xml",
-            "isDirectory": false,
-            "size": 552,
-            "modifiedTime": 1522951814000,
-            "changeTime": 1522951814000,
-            "contentHash": "e814c3bc181725ad0202c26c93c231e6d37e9464",
             "isMetadataFile": true,
             "state": "u",
             "isWorkspace": false,
@@ -300,32 +241,6 @@
             "modifiedTime": 1522952244000,
             "changeTime": 1522952244000,
             "contentHash": "98247e25a6f9e412aedf81da890ea03112af6ca2",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.Integration_User.md-meta.xml",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.Integration_User.md-meta.xml",
-            "isDirectory": false,
-            "size": 535,
-            "modifiedTime": 1522957214000,
-            "changeTime": 1522957214000,
-            "contentHash": "7370861e617eb76d37eb429047f17a492986d2b7",
-            "isMetadataFile": true,
-            "state": "u"
-        }
-    ],
-    [
-        "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.Automated_Process.md-meta.xml",
-        {
-            "sourcePath": "/Users/mnorton/workspace/dx/staticuser/force-app/main/default/customMetadata/Static_User.Automated_Process.md-meta.xml",
-            "isDirectory": false,
-            "size": 536,
-            "modifiedTime": 1522957214000,
-            "changeTime": 1522957214000,
-            "contentHash": "2bfaf03ff9754149abb647d000bf49606b3c0b34",
             "isMetadataFile": true,
             "state": "u"
         }
